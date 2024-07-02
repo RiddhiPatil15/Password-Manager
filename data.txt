@@ -1,0 +1,4 @@
+Amazon | riddhi@gmail.com | pass
+Flipcart | riddhi@gmail.com | 12345
+Netflix | riddhi@gmail.com | qwerty
+Hotstars | riddhi@gmail.com | abcde
